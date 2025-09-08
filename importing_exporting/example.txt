@@ -1,0 +1,3 @@
+hello this is txt file made to load using numpy load function.
+hello this is txt file made to load using numpy load function.
+third line
